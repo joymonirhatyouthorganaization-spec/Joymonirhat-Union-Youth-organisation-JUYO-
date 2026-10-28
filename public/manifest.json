@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "জয়মনিরহাট ইউনিয়ন যুব সংগঠন - JUYO",
+  "short_name": "JUYO যুব সংগঠন",
+  "description": "কুড়িগ্রাম জেলার ভূরুঙ্গামারী উপজেলার জয়মনিরহাট ইউনিয়ন যুব সংগঠন (JUYO) - সমাজসেবা, যুব উন্নয়ন, মাদক ও বাল্যবিবাহ প্রতিরোধ এবং রক্তদানে নিবেদিত সরকারি নিবন্ধিত স্বেচ্ছাসেবী সংস্থা।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#1e3a8a",
+  "categories": ["social", "community", "ngo", "education"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
